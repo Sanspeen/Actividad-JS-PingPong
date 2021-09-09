@@ -61,12 +61,12 @@ var game = function(){
     function checkIfLost(){
         if(ball.offsetLeft >= width - 20){
             stop();
-            window.location = "indexRestart.html";
+            window.location = "Restart.html";
             console.log("Punto Player 1");
         }
         if(ball.offsetLeft <= 0){
             stop();
-            window.location = "indexRestart.html";
+            window.location = "Restart.html";
             console.log("Punto Player 2");
         }
     }
