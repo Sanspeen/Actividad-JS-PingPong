@@ -3,6 +3,8 @@ a un punto y luego iras a una pagina donde puedes elegir si volver a comenzar o 
 
 Jugabilidad P1: W, S | P2: Flecha arriba, Flecha abajo.
 
+LINK: https://sanspeen.github.io/Actividad-JS-PingPong/indexRestart.html
+
 ------------PREGUNTAS QUE PUEDO CONTESTAR-----------------------------------------
 1. Que es js?
 2. Para que me sirve el tipo de variable Let?
